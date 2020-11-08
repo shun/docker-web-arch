@@ -1,0 +1,13 @@
+{
+  "package.json": {
+    "scripts": {
+      "start": "ng serve --host 0.0.0.0"
+    }
+  },
+  "tsconfig.json": {
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "strict": true
+    }
+  }
+}
